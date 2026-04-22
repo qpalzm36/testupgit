@@ -1,0 +1,32 @@
+反向思考
+
+agent memory 存储答题记录 完成学生能力评估 题目推荐和个性化教学三个任务 一周
+
+
+agent 加速
+
+把iclr的改成agent，然后强化学习
+
+把iclr的改成联合强化学习
+
+给当前状态的推理状态加上上下文能否进行推理？
+
+Zero-RAG: Towards Retrieval-Augmented Generation with Zero
+Redundant Knowledge
+
+speculative planning 迁移到speculative decoding
+
+投机检索？
+
+question2video
+
+上海交大&&ailab 陈明达
+
+长短期记忆参数存储
+
+CL-bench: A Benchmark for Context Learning
+
+skill
+
+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
+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
